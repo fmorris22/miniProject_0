@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#page_background {
+    background-color: #FFFFFF;
+}
+
+#div_parent {
+    display: flex;
+}
+
+#vid {
+    position: fixed;
+    left: 2rem;
+    height: 95vh;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+#text-div {
+    height: 95vh;
+    margin-top: 2.5vh;
+    margin-right: 3rem;
+    margin-bottom: 2.5vh;
+    margin-left: 391.725px;
+    padding-left: 2rem;
+}
+
+.text {
+    font-family: 'Old Standard TT', serif;
+    color: #000000;
+    text-align: left;
+}
+
+#title {
+    font-size: 4rem;
+    padding-top: 2rem;
+}
+
+.author {
+    font-size: 2rem;
+}
+
+.body {
+    line-height: 2rem;
+    max-width: 780.3px;
+    padding: 1rem;
+    background-color: rgba(249, 245, 245, .6);
+}
